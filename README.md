@@ -74,7 +74,7 @@ https://github.com/lushocorramo/ejercicios/blob/master/FactorialRecursivo.py
 
 # *Módulos*
 
-86. Crear un módulo de fucniones aritméticas que realicen las operaciones de suma, resta, multiplicación, división y potencia de enteros, escribir un programa que importe este modulo y use estas funciones para operar con numeros capturados desde el teclado:
+81. Crear un módulo de fucniones aritméticas que realicen las operaciones de suma, resta, multiplicación, división y potencia de enteros, escribir un programa que importe este modulo y use estas funciones para operar con numeros capturados desde el teclado:
 https://github.com/lushocorramo/ejercicios/blob/master/ModulosOpAritmeticas.py
 
 
